@@ -1,4 +1,4 @@
-# CNN-Data-Science-Project
+# Data-Science-Project
 Optimizing Smart Recycling system Using Machine Learning
 Project Overview
 
@@ -18,9 +18,21 @@ EfficientNetB0
 
 Tuned Efficient NetB0
 
+
 Dataset: The RealWaste dataset
 
 Dataset License: CC BY-NC-SA 4.0
+
+Package needed for this project:
+Keras
+Tensorflow
+Sklearn
+Numpy
+Matplotlib
+Seaborn
+Random
+Joblib
+Collections
 
 Classes: Cardboard, Food Organics, Glass, Metal, Miscellaneous Trash, Paper, Plastic, Vegetation (The Textile Trash was removed due to low representation)
 
