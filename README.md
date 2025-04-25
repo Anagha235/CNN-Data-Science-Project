@@ -24,15 +24,15 @@ Dataset: The RealWaste dataset
 Dataset License: CC BY-NC-SA 4.0
 
 Package needed for this project:
-Keras
-Tensorflow
-Sklearn
-Numpy
-Matplotlib
-Seaborn
-Random
-Joblib
-Collections
+Keras,
+Tensorflow,
+Sklearn,
+Numpy,
+Matplotlib,
+Seaborn,
+Random,
+Joblib,
+Collections,
 
 Classes: Cardboard, Food Organics, Glass, Metal, Miscellaneous Trash, Paper, Plastic, Vegetation (The Textile Trash was removed due to low representation)
 
